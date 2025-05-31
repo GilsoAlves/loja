@@ -19,3 +19,22 @@ menu{
     background-color: gray;
     color: blue;
 }
+
+main{
+    background-color: aquamarine;
+    width: 850px;
+    height: 500px;
+    margin: auto;
+    
+}
+
+h2{
+    text-align: center;
+    color: green;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
