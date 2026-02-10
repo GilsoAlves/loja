@@ -1,0 +1,2 @@
+# gsatec
+Loja Virtual
